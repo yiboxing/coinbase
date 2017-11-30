@@ -1,0 +1,15 @@
+*.swo
+*.swp
+
+*/*.swo
+*/*.swp
+
+*.pyc
+*.py~
+
+*/*.pyc
+*/*.py~
+
+desktop.ini
+
+**/*.log
